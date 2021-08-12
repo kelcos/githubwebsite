@@ -1,6 +1,4 @@
-My readme.
-
-[First Markdown] (first_markdown.html)
+[First Markdown] (first_markdown.rmd)
 
 ## Welcome to GitHub Pages
 
